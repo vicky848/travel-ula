@@ -1,0 +1,29 @@
+.booking-container{
+display:flex;
+  justify-content:center;
+  align-items:center;
+}
+.form-container{
+margin-bottom:50px;
+  width:300px;
+  padding:20px;
+
+
+
+}
+
+label{
+  font-weight:bold;
+  margin-bottom:10px;
+  color:#444;
+ margin-left:20px;
+
+
+
+}
+.button-container{
+  display:flex;
+  justify-content:center;
+  align-items:center;
+}
+

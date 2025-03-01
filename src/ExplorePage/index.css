@@ -1,0 +1,17 @@
+.card-text{
+font-size:16px;
+color:black;
+
+}
+.card{
+margin-bottom:20px;
+
+}
+.explore-page-container{
+  display: flex;
+  flex-wrap: wrap;
+  padding: 20px;
+  justify-content: center;
+  align-items: center;
+
+}

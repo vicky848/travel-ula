@@ -1,0 +1,27 @@
+.terms-container{
+background-color:#fefdfd;
+height:100%;
+weight:100%;
+text-align:center;
+color:black;
+padding:50px;
+
+
+
+}
+.term-list{
+list-style-type:none;
+
+}
+
+.term-list li{
+margin:10px;
+margin-bottom:20px;
+
+}
+.term-heading{
+
+font-size:34px;
+font-weight:bold;
+font-family: sans-serif;
+}

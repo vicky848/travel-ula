@@ -1,0 +1,44 @@
+.card {
+  background-color: transparent !important; 
+  border: none;
+  color: white;
+ 
+}
+
+.card-body {
+  background: rgba(187, 176, 176, 0.4);
+  padding: 20px;
+  text-align: center;
+  border-radius: 10px;
+   
+}
+
+.card-text{
+color: white;
+}
+.card-heading{
+  font-size: 30px;
+  color: white;
+  margin-bottom: 10px;
+  font-weight: bold;
+  text-transform: uppercase;
+  letter-spacing: 2px;
+  text-shadow: 2px 2px 4px rgba(0,0,0,0.5);
+  background: linear-gradient(to right,rgb(230, 110, 13),rgb(212, 93, 13));
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  animation: pulse 2s infinite;
+  animation-timing-function: ease-in-out;
+  animation-delay: 0s;
+  animation-iteration-count: infinite;
+
+
+}
+.card-img-top{
+  width: 50px;
+  height: 50px;
+  margin-bottom: 10px;
+  box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+  transition: box-shadow 0.3s ease;
+  }
+
