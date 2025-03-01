@@ -1,3 +1,105 @@
+# Travel Booking App
+
+A React-based travel booking web application that provides users with an interactive itinerary planner, pricing details, booking features, and an explore page for destinations.
+
+## Features
+- **Navigation Bar**: Provides quick access to different sections.
+- **Home Page**: Introduction to the app.
+- **Itinerary Page**: Users can view and customize their travel plans.
+- **Pricing Page**: Displays package costs and offers.
+- **Terms & Conditions Page**: Important information for users.
+- **Explore Page**: A page to explore destinations.
+- **Booking Trigger**: Users can initiate and manage their bookings.
+- **404 Not Found Page**: Displays a custom message for invalid routes.
+
+## Tech Stack
+- **Frontend**: React.js, React Router
+- **Styling**: Bootstrap
+
+## Installation
+### Prerequisites
+- Node.js (v16+ recommended)
+- npm or yarn
+
+### Steps
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/your-username/travel-ula-app.git
+   ```
+2. Navigate to the project directory:
+   ```bash
+   cd travel-booking-app
+   ```
+3. Install dependencies:
+   ```bash
+   npm install
+   ```
+   or
+   ```bash
+   yarn install
+   ```
+4. Start the development server:
+   ```bash
+   npm start
+   ```
+   or
+   ```bash
+   yarn start
+   ```
+5. Open the app in your browser at:
+   ```
+   http://localhost:3000
+   ```
+
+## Project Structure
+```
+travel-booking-app/
+│── src/
+│   ├── components/
+│   │   ├── Navbar.js
+│   │   ├── Home.js
+│   │   ├── Itinerary.js
+│   │   ├── Pricing.js
+│   │   ├── Terms.js
+│   │   ├── ExplorePage.js
+│   │   ├── BookingTriggers.js
+│   │   ├── NotFound.js
+│   ├── App.js
+│   ├── index.js
+│── public/
+│── package.json
+│── README.md
+```
+
+## Deployment
+
+- **Vercel**
+- **GitHub Pages**
+
+To deploy using Netlify:
+1. Build the project:
+   ```bash
+   npm run build
+   ```
+2. Deploy via Netlify by dragging and dropping the `build` folder.
+
+## Contributing
+1. Fork the repository.
+2. Create a new branch (`feature-branch`).
+3. Commit changes.
+4. Push to your fork.
+5. Submit a Pull Request.
+
+
+
+
+
+
+
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
