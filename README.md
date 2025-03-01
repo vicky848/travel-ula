@@ -28,7 +28,8 @@ A React-based travel booking web application that provides users with an interac
    ```
 2. Navigate to the project directory:
    ```bash
-   cd travel-booking-app
+   cd travel-ula
+   
    ```
 3. Install dependencies:
    ```bash
